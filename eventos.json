@@ -3,12 +3,13 @@
     "id": "Z Hardcore",
     "nombre": "Z Hardcore",
     "descripcion": "Sobrevive, resuelve acertijos y encuentra la salida.",
-    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/refs/heads/main/images/solitario.png
+    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/refs/heads/main/images/solitario.png",
     "estado": "disponible",
     "etiqueta": "Evento nuevo",
     "version": "3",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
-    "visible": true
+    "visible": true,
+    "packageUrl": "PEGA_AQUI_EL_ENLACE_DIRECTO_DEL_ZIP"
   }
 ]
