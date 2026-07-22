@@ -9,7 +9,7 @@
     "version": "3",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
-    "visible": true,
+    "visible": false,
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivo_ZHardcore_v2/archive_ZHardcore_v2.zip"
   }
 ]
