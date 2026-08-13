@@ -6,11 +6,11 @@
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/images/solitario.png",
     "estado": "En Proceso",
     "etiqueta": "Evento nuevo",
-    "version": "5",
+    "version": "6",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
     "visible": true,
-    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivo_ZHardcore_v5/Archivo_ZHardcore_v5.zip",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivo_ZHardcore_v6/Archivo_ZHardcore_v6.zip",
     "desinstalarAutomaticamente": false
   }
 ]
