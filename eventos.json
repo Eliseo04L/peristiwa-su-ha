@@ -4,13 +4,13 @@
     "nombre": "Z Hardcore",
     "descripcion": "Sobrevive, encuentra una cura o acaba con el virus.",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/images/solitario.png",
-    "estado": "En Proceso",
+    "estado": "Finalizado",
     "etiqueta": "Evento nuevo",
     "version": "6",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
     "visible": true,
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivo_ZHardcore_v6/Archivo_ZHardcore_v6.zip",
-    "desinstalarAutomaticamente": false
+    "desinstalarAutomaticamente": true
   }
 ]
