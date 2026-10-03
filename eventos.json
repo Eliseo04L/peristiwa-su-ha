@@ -17,7 +17,7 @@
     "id": "RENACIMIENTO",
     "nombre": "RENACIMIENTO",
     "descripcion": "El reinicio de todo lo existente, donde la historia empieza desde el dia 1.",
-    "imagen": "",
+    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/refs/heads/main/images/fondoevento.png",
     "estado": "En proceso",
     "etiqueta": "Evento nuevo",
     "version": "1",
