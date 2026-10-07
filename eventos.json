@@ -20,11 +20,11 @@
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/refs/heads/main/images/fondoevento.png",
     "estado": "En proceso",
     "etiqueta": "Evento nuevo",
-    "version": "1",
+    "version": "2",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
     "visible": true,
-    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/archivos_RENACIMIENTO_v1/archivos_RENACIMIENTO_v1.zip",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivos_RENACIMIENTO_v2/archivos_RENACIMIENTO_v2.zip",
     "desinstalarAutomaticamente": false
   }
 ]
