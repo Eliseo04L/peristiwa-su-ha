@@ -13,7 +13,7 @@
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivo_ZHardcore_v6/Archivo_ZHardcore_v6.zip",
     "desinstalarAutomaticamente": true
   },
-    {
+  {
     "id": "RENACIMIENTO",
     "nombre": "RENACIMIENTO",
     "descripcion": "El reinicio de todo lo existente, donde la historia empieza desde el dia 1.",
@@ -25,6 +25,20 @@
     "forgeVersion": "47.4.10",
     "visible": true,
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/Archivos_RENACIMIENTO_v8/Archivos_RENACIMIENTO_v8.zip",
+    "desinstalarAutomaticamente": false
+  },
+  {
+    "id": "JAJAJAJ que risa",
+    "nombre": "Prueba Panel",
+    "descripcion": "Prueba de fondo y archivos",
+    "etiqueta": "Beta",
+    "estado": "Disponible",
+    "minecraftVersion": "1.20.1",
+    "forgeVersion": "47.4.10",
+    "version": "1",
+    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/jajajaj-que-risa/imagen.webp",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-jajajaj-que-risa-e1cddefa/paquete-jajajaj-que-risa-v1-840551af8ee3.zip",
+    "visible": true,
     "desinstalarAutomaticamente": false
   }
 ]
