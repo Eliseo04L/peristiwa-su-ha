@@ -32,13 +32,13 @@
     "nombre": "Prueba Seria 1",
     "descripcion": "memorendo a ver si descarga y baja los archivos rapido",
     "etiqueta": "",
-    "estado": "En proceso",
+    "estado": "Finalizado",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
     "version": "1",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/prueba/imagen.webp",
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-prueba-ac3f091c/paquete-prueba-v1-3dbb7e5e9a30.zip",
-    "visible": true,
-    "desinstalarAutomaticamente": false
+    "visible": false,
+    "desinstalarAutomaticamente": true
   }
 ]
