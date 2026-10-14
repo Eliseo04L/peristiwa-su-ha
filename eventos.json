@@ -38,7 +38,7 @@
     "version": "1",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/jajajaj-que-risa/imagen.webp",
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-jajajaj-que-risa-e1cddefa/paquete-jajajaj-que-risa-v1-840551af8ee3.zip",
-    "visible": true,
-    "desinstalarAutomaticamente": false
+    "visible": false,
+    "desinstalarAutomaticamente": true
   }
 ]
