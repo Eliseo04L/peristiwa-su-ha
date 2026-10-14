@@ -32,13 +32,13 @@
     "nombre": "Prueba Panel",
     "descripcion": "Prueba de fondo y archivos",
     "etiqueta": "Beta",
-    "estado": "En Proceso",
+    "estado": "Finalizado",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
     "version": "1",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/jajajaj-que-risa/imagen.webp",
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-jajajaj-que-risa-e1cddefa/paquete-jajajaj-que-risa-v1-4df2cf6e7b6a.zip",
-    "visible": true,
-    "desinstalarAutomaticamente": false
+    "visible": false,
+    "desinstalarAutomaticamente": true
   }
 ]
