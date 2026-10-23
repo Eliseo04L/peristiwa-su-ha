@@ -21,9 +21,9 @@
     "estado": "En proceso",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
-    "version": "12",
+    "version": "13",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/renacimiento/imagen.png",
-    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-renacimiento-d65cbce9/paquete-renacimiento-v12-b83c284b19d5.zip",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-renacimiento-d65cbce9/paquete-renacimiento-v13-fe1133212cc6.zip",
     "visible": true,
     "desinstalarAutomaticamente": false
   }
