@@ -26,5 +26,19 @@
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-renacimiento-d65cbce9/paquete-renacimiento-v15-652681196206.zip",
     "visible": true,
     "desinstalarAutomaticamente": false
+  },
+  {
+    "id": "survival-spore",
+    "nombre": "Survival Su-Ha Spore",
+    "descripcion": "Un servidor donde jugarás para pasar el rato, conocer gente y/o interactuar con ellos",
+    "etiqueta": "Evento temporal",
+    "estado": "Disponible",
+    "minecraftVersion": "1.20.1",
+    "forgeVersion": "47.4.28",
+    "version": "1",
+    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/survival-spore/imagen.png",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-survival-spore-dc03ad09/paquete-survival-spore-v1-e019e0dda946.zip",
+    "visible": true,
+    "desinstalarAutomaticamente": false
   }
 ]
