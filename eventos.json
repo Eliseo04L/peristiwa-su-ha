@@ -49,9 +49,9 @@
     "estado": "En desarrollo",
     "minecraftVersion": "1.20.1",
     "forgeVersion": "47.4.10",
-    "version": "5",
+    "version": "6",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/el-renacer/imagen.png",
-    "packageUrl": "https://www.dropbox.com/scl/fi/g0hnkgxdz0jkbtcsze94g/Archivos_RENACER_v5.zip?rlkey=fq1jmzcebmleo756s8cfcmw89&st=akhs2mrt&dl=1",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-el-renacer-1ba68345/paquete-el-renacer-v6-c3dbb1937465.zip",
     "visible": true,
     "desinstalarAutomaticamente": false
   }
