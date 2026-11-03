@@ -40,5 +40,19 @@
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-survival-spore-dc03ad09/paquete-survival-spore-v1-e019e0dda946.zip",
     "visible": true,
     "desinstalarAutomaticamente": false
+  },
+  {
+    "id": "el-renacer",
+    "nombre": "El renacer",
+    "descripcion": "Todos renacen, enfrentan cambios y sobreviven para evitar que Null destruya su mundo.",
+    "etiqueta": "Evento en espera",
+    "estado": "En desarrollo",
+    "minecraftVersion": "1.20.1",
+    "forgeVersion": "47.4.10",
+    "version": "1",
+    "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/el-renacer/imagen.png",
+    "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-el-renacer-1ba68345/paquete-el-renacer-v1-9c029135d9b9.zip",
+    "visible": true,
+    "desinstalarAutomaticamente": false
   }
 ]
