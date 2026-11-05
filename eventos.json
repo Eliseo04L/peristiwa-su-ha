@@ -38,7 +38,7 @@
     "version": "1",
     "imagen": "https://raw.githubusercontent.com/Eliseo04L/peristiwa-su-ha/main/eventos/survival-spore/imagen.png",
     "packageUrl": "https://github.com/Eliseo04L/peristiwa-su-ha/releases/download/suha-event-survival-spore-dc03ad09/paquete-survival-spore-v1-e019e0dda946.zip",
-    "visible": true,
+    "visible": false,
     "desinstalarAutomaticamente": false
   },
   {
